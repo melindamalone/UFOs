@@ -10,9 +10,9 @@
 
 ###### To use the UFO Sightings webpage, a user would need to enter one or more search criteria based on date, city, state, country, and shape of the sighting.  For example, a Texas resident would enter "tx" in the state input box to determine which UFO sightings occurred in their home state.  To narrow the results further, the user could enter "light" as the shape of the sighting and would be able to determine that the state of Texas had two reported UFO sightings as light and could review a filtered table of these two reported sightings.
 
-<img src="static/images/UFO_sightings_tx.PNG" width="300">
+<img src="static/images/UFO_sightings_tx.PNG" width="500">
 
-<img src="static/images/UFO_sightings_tx_light.PNG" width="300">
+<img src="static/images/UFO_sightings_tx_light.PNG" width="500">
 
 ### Summary
 
