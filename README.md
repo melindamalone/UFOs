@@ -14,6 +14,10 @@
 
 <img src="static/images/UFO_sightings_tx_light.PNG" width="600">
 
+![](static/images/UFO_sightings_tx.PNG)
+
+![](static/images/UFO_sightings_tx_light.PNG)
+
 ### Summary
 
 ###### The drawback of this new design is the lack of filter or reset button. In my opinion, I believe it would be beneficial to the user to add a filter button or reset button on the UFO Sightings webpage.  Currently the user must manually delete the search criteria entered which is not an efficient use of the webpage for the user. Therefore I'd recommend adding a filter or reset button to the webpage to make it more user-friendly. Secondly, I'd regularly add more data to the data.js dataset on a weekly, monthly, or yearly basis so that users could regularly search for the most recent UFO Sightings based on their search criteria.
